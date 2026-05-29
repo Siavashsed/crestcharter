@@ -54,5 +54,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Finance Tips That Actually Matter When You're Spending at the Top End",
+    "slug": "finance-tips-luxury-rentals",
+    "meta_description": "Smart finance tips for high-end spenders booking luxury jets, villas, and yachts. Real strategies that protect your wealth while you live well.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/31758575/pexels-photo-31758575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bis.org",
+      "fidelity.com",
+      "abi.org.uk"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Greece's 2023 Short-Term Rental Tax Crackdown and What It Meant for Luxury Villa Charters",
+    "slug": "greece-2023-luxury-villa-rental-tax",
+    "meta_description": "Greece's 2023 short-term rental tax law shook the luxury villa market. Here's what actually happened and why it matters for high-end renters.",
+    "date": "July 19, 2023",
+    "date_iso": "2023-07-19",
+    "author": "Sophie Chen",
+    "image": "https://images.pexels.com/photos/5139755/pexels-photo-5139755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "aade.gr",
+      "reuters.com",
+      "statista.com",
+      "ec.europa.eu"
+    ],
+    "posted_iso": "2026-05-29",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
