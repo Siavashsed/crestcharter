@@ -16,7 +16,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   },
   {
     "title": "The 2022 Superyacht Boom That Reshaped Luxury Rentals Forever",
@@ -34,7 +35,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Yachts"
   },
   {
     "title": "How the EU's 2019 Superyacht VAT Crackdown Changed Luxury Rentals Forever",
@@ -53,7 +55,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   },
   {
     "title": "Finance Tips That Actually Matter When You're Spending at the Top End",
@@ -71,7 +74,8 @@
     "posted_iso": "2026-05-29",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   },
   {
     "title": "Greece's 2023 Short-Term Rental Tax Crackdown and What It Meant for Luxury Villa Charters",
@@ -91,6 +95,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   }
 ]
