@@ -97,5 +97,44 @@
       "en"
     ],
     "category": "Booking & Pricing"
+  },
+  {
+    "title": "General Finance Tips for People Who Actually Spend at the Top End",
+    "slug": "finance-tips-luxury-rental-spending",
+    "meta_description": "Smart general finance tips for luxury renters. How to protect cash flow, tax strategy, and avoid the hidden traps of high-end spending.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/15564495/pexels-photo-15564495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "bis.org",
+      "tandfonline.com"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "How the EU's 2019 Superyacht VAT Crackdown Changed Luxury Rentals Forever",
+    "slug": "eu-2019-superyacht-vat-crackdown-luxury-rentals",
+    "meta_description": "The EU's 2019 superyacht VAT crackdown reshaped luxury yacht rentals overnight. Here's what happened, who it hit hardest, and why it still matters.",
+    "date": "September 07, 2019",
+    "date_iso": "2019-09-07",
+    "author": "Marcus Reid",
+    "image": "https://images.pexels.com/photos/35740506/pexels-photo-35740506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "taxjournal.com",
+      "superyachtnews.com",
+      "statista.com",
+      "europarl.europa.eu"
+    ],
+    "posted_iso": "2026-05-31",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
