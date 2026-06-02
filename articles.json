@@ -136,5 +136,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Finance Tips for High-End Renters Who Actually Want to Keep Their Wealth",
+    "slug": "finance-tips-luxury-rental-wealth",
+    "meta_description": "Smart finance tips for luxury rental clients spending on jets, villas, and yachts. Keep wealth intact while living at the top end.",
+    "date": "June 02, 2026",
+    "date_iso": "2026-06-02",
+    "author": "Marcus Reid",
+    "image": "https://images.pexels.com/photos/17591960/pexels-photo-17591960.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "ubs.com",
+      "irs.gov",
+      "wsj.com"
+    ],
+    "posted_iso": "2026-06-02",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
