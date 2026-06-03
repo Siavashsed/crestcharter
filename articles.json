@@ -115,7 +115,8 @@
     "posted_iso": "2026-05-31",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   },
   {
     "title": "How the EU's 2019 Superyacht VAT Crackdown Changed Luxury Rentals Forever",
@@ -135,7 +136,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Yachts"
   },
   {
     "title": "Finance Tips for High-End Renters Who Actually Want to Keep Their Wealth",
@@ -153,7 +155,8 @@
     "posted_iso": "2026-06-02",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   },
   {
     "title": "Finance Tips That Actually Work When You're Spending Serious Money on Luxury Rentals",
@@ -172,6 +175,7 @@
     "posted_iso": "2026-06-03",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Booking & Pricing"
   }
 ]
