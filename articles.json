@@ -177,5 +177,24 @@
       "en"
     ],
     "category": "Booking & Pricing"
+  },
+  {
+    "title": "The EU VAT Crackdown of 2019 Broke Superyacht Charter as We Knew It",
+    "slug": "eu-2019-superyacht-vat-crackdown-2",
+    "meta_description": "The EU's 2019 superyacht VAT crackdown reshaped luxury charter pricing overnight. Here's what actually happened and who paid the price.",
+    "date": "November 11, 2019",
+    "date_iso": "2019-11-11",
+    "author": "Marcus Reid",
+    "image": "https://images.pexels.com/photos/32799597/pexels-photo-32799597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "taxation-customs.ec.europa.eu",
+      "ec.europa.eu",
+      "statista.com"
+    ],
+    "posted_iso": "2026-06-09",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
