@@ -196,5 +196,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Wheels Up's 2022 IPO Hangover and What It Revealed About Private Jet Charters",
+    "slug": "wheels-up-2022-private-jet-charter",
+    "meta_description": "Wheels Up went public and then stumbled hard in 2022. Here's what that meant for private jet charter pricing, availability, and who actually wins.",
+    "date": "December 19, 2022",
+    "date_iso": "2022-12-19",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/19101603/pexels-photo-19101603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "ir.wheelsup.com",
+      "faa.gov",
+      "aviationweek.com",
+      "boatinternational.com"
+    ],
+    "posted_iso": "2026-06-10",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
