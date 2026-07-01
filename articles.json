@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "title": "Why Most Rich People Still Get Finance Wrong",
+    "slug": "finance-tips-luxury-spenders",
+    "meta_description": "Admiral Blake Morgan on the finance mistakes luxury spenders make - and the counterintuitive strategies that actually protect serious wealth.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/7873391/pexels-photo-7873391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "jpmorgan.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Superyacht Fuel Surcharges Blew Up Charter Budgets in 2022",
+    "slug": "superyacht-fuel-surcharges-2022",
+    "meta_description": "How the 2022 fuel price shock reshaped superyacht charters, private jet rentals, and luxury villa contracts - and what it meant for the industry.",
+    "date": "May 31, 2022",
+    "date_iso": "2022-05-31",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/30608241/pexels-photo-30608241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "myba.org",
+      "iata.org",
+      "ir.wheelsup.com",
+      "mckinsey.com",
+      "ship-technology.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  }
+]
