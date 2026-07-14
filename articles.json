@@ -37,5 +37,41 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Rich People Who Charter Jets But Can't Read a Fee Schedule",
+    "slug": "finance-tips-wealthy-fee-blindness",
+    "meta_description": "Real finance tips from years around high-net-worth clients: fees, cash drag, and the money mistakes that quietly cost the wealthy the most.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/10855003/pexels-photo-10855003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "sec.gov",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The G700 Touched Down in 2024 and Every Charter Desk Felt It",
+    "slug": "g700-2024-charter-shift",
+    "meta_description": "The Gulfstream G700 entered service in 2024. Here is what its arrival did to charter fleets, pricing, and the ultra long-haul rental game.",
+    "date": "February 07, 2024",
+    "date_iso": "2024-02-07",
+    "author": "Admiral Blake Morgan",
+    "image": "",
+    "outbound_links": [
+      "gulfstreamnews.com",
+      "reuters.com",
+      "wingx-advance.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
