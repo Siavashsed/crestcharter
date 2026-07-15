@@ -73,5 +73,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Money Rules I Learned After Chartering My First Yacht Broke",
+    "slug": "finance-tips-luxury-renters",
+    "meta_description": "Real finance tips for luxury renters, from someone who has booked the jets and villas. Cash flow, hidden fees, and the traps rich people fall into.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/34045130/pexels-photo-34045130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "forbes.com",
+      "federalreserve.gov",
+      "apa.org"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
