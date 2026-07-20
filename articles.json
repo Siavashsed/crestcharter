@@ -110,5 +110,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The 10 Percent Rule That Kills Most Private Jet Purchases",
+    "slug": "private-jet-finance-tips-charter-math",
+    "meta_description": "Practical finance tips for people who charter jets, villas and yachts, from someone who has run the ownership math and lost money learning it.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/20640842/pexels-photo-20640842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nbaa.org",
+      "federalreserve.gov",
+      "irs.gov",
+      "knightfrank.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The 2024 Rule That Put a Registration Number on Every Villa",
+    "slug": "eu-2024-villa-registration-rule",
+    "meta_description": "Regulation (EU) 2024/1028 and Barcelona's 2028 ban reshaped luxury villa rentals in 2024. What broke, who won, and what charter desks learned.",
+    "date": "October 09, 2024",
+    "date_iso": "2024-10-09",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/35069533/pexels-photo-35069533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "eur-lex.europa.eu",
+      "reuters.com",
+      "ec.europa.eu"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
