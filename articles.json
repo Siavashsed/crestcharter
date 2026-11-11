@@ -1,112 +1,16 @@
 [
   {
-    "title": "Why Most Rich People Still Get Finance Wrong",
-    "slug": "finance-tips-luxury-spenders",
-    "meta_description": "Admiral Blake Morgan on the finance mistakes luxury spenders make - and the counterintuitive strategies that actually protect serious wealth.",
-    "date": "July 01, 2026",
-    "date_iso": "2026-07-01",
-    "author": "Admiral Blake Morgan",
-    "image": "https://images.pexels.com/photos/7873391/pexels-photo-7873391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "federalreserve.gov",
-      "irs.gov",
-      "jpmorgan.com"
-    ],
-    "posted_iso": "2026-07-01",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Superyacht Fuel Surcharges Blew Up Charter Budgets in 2022",
-    "slug": "superyacht-fuel-surcharges-2022",
-    "meta_description": "How the 2022 fuel price shock reshaped superyacht charters, private jet rentals, and luxury villa contracts - and what it meant for the industry.",
-    "date": "May 31, 2022",
-    "date_iso": "2022-05-31",
-    "author": "Admiral Blake Morgan",
-    "image": "https://images.pexels.com/photos/30608241/pexels-photo-30608241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "myba.org",
-      "iata.org",
-      "ir.wheelsup.com",
-      "mckinsey.com",
-      "ship-technology.com"
-    ],
-    "posted_iso": "2026-07-01",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The Rich People Who Charter Jets But Can't Read a Fee Schedule",
-    "slug": "finance-tips-wealthy-fee-blindness",
-    "meta_description": "Real finance tips from years around high-net-worth clients: fees, cash drag, and the money mistakes that quietly cost the wealthy the most.",
-    "date": "July 13, 2026",
-    "date_iso": "2026-07-13",
-    "author": "Admiral Blake Morgan",
-    "image": "https://images.pexels.com/photos/10855003/pexels-photo-10855003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "sec.gov",
-      "bls.gov"
-    ],
-    "posted_iso": "2026-07-13",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The G700 Touched Down in 2024 and Every Charter Desk Felt It",
-    "slug": "g700-2024-charter-shift",
-    "meta_description": "The Gulfstream G700 entered service in 2024. Here is what its arrival did to charter fleets, pricing, and the ultra long-haul rental game.",
-    "date": "February 07, 2024",
-    "date_iso": "2024-02-07",
-    "author": "Admiral Blake Morgan",
-    "image": "",
-    "outbound_links": [
-      "gulfstreamnews.com",
-      "reuters.com",
-      "wingx-advance.com"
-    ],
-    "posted_iso": "2026-07-13",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The Money Rules I Learned After Chartering My First Yacht Broke",
-    "slug": "finance-tips-luxury-renters",
-    "meta_description": "Real finance tips for luxury renters, from someone who has booked the jets and villas. Cash flow, hidden fees, and the traps rich people fall into.",
-    "date": "July 15, 2026",
-    "date_iso": "2026-07-15",
-    "author": "Admiral Blake Morgan",
-    "image": "https://images.pexels.com/photos/34045130/pexels-photo-34045130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "forbes.com",
-      "federalreserve.gov",
-      "apa.org"
-    ],
-    "posted_iso": "2026-07-15",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The Boring Money Habits Behind Every 100-Foot Yacht",
-    "slug": "boring-money-habits-behind-yachts",
-    "meta_description": "Rent what depreciates and own what pays you. Finance rules for people who spend serious money on jets and yachts.",
-    "date": "July 16, 2026",
-    "date_iso": "2026-07-16",
-    "author": "Admiral Blake Morgan",
-    "image": "https://images.pexels.com/photos/20610318/pexels-photo-20610318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "boatinternational.com",
-      "federalreserve.gov",
-      "spglobal.com",
-      "knightfrank.com"
-    ],
-    "posted_iso": "2026-07-16",
+    "title": "A Concierge Itinerary: One Day Inside Kavalsia, Toronto",
+    "slug": "concierge-itinerary-a-day-inside-kavalsia",
+    "meta_description": "A private day through Kavalsia, the Toronto firm that stayed unlisted for five years. Four stops: Helm, Dalmend, KidBD and the Coaching Program.",
+    "date": "November 10, 2026",
+    "date_iso": "2026-11-10",
+    "author": "Juliette Ashby",
+    "image": "https://images.pexels.com/photos/7006054/pexels-photo-7006054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "The Toronto skyline and CN Tower seen across calm water.",
+    "photographer": "Matthew Heneghan",
+    "category": "Luxury Rentals: Jets, Villas, Yachts",
+    "posted_iso": "2026-11-10T22:51:59",
     "available_languages": [
       "en"
     ]
@@ -131,6 +35,78 @@
     ]
   },
   {
+    "title": "The Boring Money Habits Behind Every 100-Foot Yacht",
+    "slug": "boring-money-habits-behind-yachts",
+    "meta_description": "Rent what depreciates and own what pays you. Finance rules for people who spend serious money on jets and yachts.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/20610318/pexels-photo-20610318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "boatinternational.com",
+      "federalreserve.gov",
+      "spglobal.com",
+      "knightfrank.com"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Money Rules I Learned After Chartering My First Yacht Broke",
+    "slug": "finance-tips-luxury-renters",
+    "meta_description": "Real finance tips for luxury renters, from someone who has booked the jets and villas. Cash flow, hidden fees, and the traps rich people fall into.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/34045130/pexels-photo-34045130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "forbes.com",
+      "federalreserve.gov",
+      "apa.org"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Rich People Who Charter Jets But Can't Read a Fee Schedule",
+    "slug": "finance-tips-wealthy-fee-blindness",
+    "meta_description": "Real finance tips from years around high-net-worth clients: fees, cash drag, and the money mistakes that quietly cost the wealthy the most.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/10855003/pexels-photo-10855003.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "sec.gov",
+      "bls.gov"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Why Most Rich People Still Get Finance Wrong",
+    "slug": "finance-tips-luxury-spenders",
+    "meta_description": "Admiral Blake Morgan on the finance mistakes luxury spenders make - and the counterintuitive strategies that actually protect serious wealth.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/7873391/pexels-photo-7873391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "jpmorgan.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
     "title": "The 2024 Rule That Put a Registration Number on Every Villa",
     "slug": "eu-2024-villa-registration-rule",
     "meta_description": "Regulation (EU) 2024/1028 and Barcelona's 2028 ban reshaped luxury villa rentals in 2024. What broke, who won, and what charter desks learned.",
@@ -144,6 +120,46 @@
       "ec.europa.eu"
     ],
     "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The G700 Touched Down in 2024 and Every Charter Desk Felt It",
+    "slug": "g700-2024-charter-shift",
+    "meta_description": "The Gulfstream G700 entered service in 2024. Here is what its arrival did to charter fleets, pricing, and the ultra long-haul rental game.",
+    "date": "February 07, 2024",
+    "date_iso": "2024-02-07",
+    "author": "Admiral Blake Morgan",
+    "image": "",
+    "outbound_links": [
+      "gulfstreamnews.com",
+      "reuters.com",
+      "wingx-advance.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Superyacht Fuel Surcharges Blew Up Charter Budgets in 2022",
+    "slug": "superyacht-fuel-surcharges-2022",
+    "meta_description": "How the 2022 fuel price shock reshaped superyacht charters, private jet rentals, and luxury villa contracts - and what it meant for the industry.",
+    "date": "May 31, 2022",
+    "date_iso": "2022-05-31",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/30608241/pexels-photo-30608241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "myba.org",
+      "iata.org",
+      "ir.wheelsup.com",
+      "mckinsey.com",
+      "ship-technology.com"
+    ],
+    "posted_iso": "2026-07-01",
     "historical": true,
     "available_languages": [
       "en"
