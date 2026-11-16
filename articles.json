@@ -164,5 +164,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "I Rent Yachts Every Summer and Own Almost Nothing That Floats",
+    "slug": "rent-yachts-own-cash-finance-tips",
+    "meta_description": "General finance tips from a charter veteran: protect your cash, rent instead of owning, and read every contract like a balance sheet.",
+    "date": "November 16, 2026",
+    "date_iso": "2026-11-16",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/7586784/pexels-photo-7586784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com",
+      "myba-association.com"
+    ],
+    "posted_iso": "2026-11-16",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Airbnb Luxe Arrives With 2,000 Villas and a 300-Point Checklist",
+    "slug": "airbnb-luxe-2019-launch-villa-brokers",
+    "meta_description": "Airbnb Luxe launched in June 2019 with 2,000 vetted villas. A charter veteran on what it gets right, what it misses, and who should still use a broker.",
+    "date": "March 04, 2019",
+    "date_iso": "2019-03-04",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/36418268/pexels-photo-36418268.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "news.airbnb.com",
+      "knightfrank.com"
+    ],
+    "posted_iso": "2026-11-16",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
