@@ -201,5 +201,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The $41,000 Wire Transfer That Taught Me Real Money Discipline",
+    "slug": "general-finance-tips-charter-insider",
+    "meta_description": "General finance tips from a charter insider: cash buffers, deposit terms, card protections and the spending habits that keep wealthy clients solvent.",
+    "date": "November 17, 2026",
+    "date_iso": "2026-11-17",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/35171464/pexels-photo-35171464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
