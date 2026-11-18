@@ -218,5 +218,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Book the Yacht Last: Money Rules From Thirty Years of Charters",
+    "slug": "general-finance-tips-book-yacht-last",
+    "meta_description": "General finance tips from a veteran charter client: build a travel float, read deposit terms, index your portfolio and rent before you buy.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/11989051/pexels-photo-11989051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
