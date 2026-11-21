@@ -273,5 +273,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Rent the Jet, Skip the Hangar: Finance Rules That Hold Up",
+    "slug": "finance-tips-renting-over-owning",
+    "meta_description": "Smart finance tips for people who spend on jets, villas and yachts: why renting beats owning, where the money leaks, and one rule to apply today.",
+    "date": "November 21, 2026",
+    "date_iso": "2026-11-21",
+    "author": "Admiral Blake Morgan",
+    "image": "",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-21",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
