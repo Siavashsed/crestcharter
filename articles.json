@@ -307,5 +307,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Charter Budget Is Wrong, and the Fix Is Boring",
+    "slug": "general-finance-tips-charter-budget",
+    "meta_description": "General finance tips from a charter veteran: keep cash liquid, price the full trip, fund luxury with dull money, and read the cancellation schedule.",
+    "date": "November 23, 2026",
+    "date_iso": "2026-11-23",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/33291138/pexels-photo-33291138.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "irs.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-23",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Wheels Up Went Public in 2021 and Jet Rentals Changed Overnight",
+    "slug": "wheels-up-public-2021-jet-rentals",
+    "meta_description": "Wheels Up's July 2021 NYSE debut turned private jet access into a Wall Street story. Here's what it changed for renters, brokers and owners.",
+    "date": "September 12, 2021",
+    "date_iso": "2021-09-12",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/1172541/pexels-photo-1172541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "wheelsup.com",
+      "wingx.com"
+    ],
+    "posted_iso": "2026-11-23",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
