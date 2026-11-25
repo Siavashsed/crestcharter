@@ -361,5 +361,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Net Worth Isn't the Problem. Your Cash Flow Is",
+    "slug": "finance-tips-cash-flow-first",
+    "meta_description": "Sound finance tips for people who spend on jets, villas and yachts: fix cash flow first, rent before you buy, and stop chasing returns.",
+    "date": "November 25, 2026",
+    "date_iso": "2026-11-25",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/9041761/pexels-photo-9041761.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-25",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
