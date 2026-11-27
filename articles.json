@@ -394,5 +394,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Cash Cushion Matters More Than Your Returns, Even at the Top",
+    "slug": "general-finance-tips-cash-cushion",
+    "meta_description": "General finance tips from a charter veteran: size your cash buffer to your commitments, price rentals as line items, and stop chasing returns you can't hold.",
+    "date": "November 27, 2026",
+    "date_iso": "2026-11-27",
+    "author": "Admiral Blake Morgan",
+    "image": "https://images.pexels.com/photos/20536742/pexels-photo-20536742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-27",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
